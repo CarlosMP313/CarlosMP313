@@ -1,11 +1,11 @@
 ### Hi 👋
 
-Mi nombre es Carlos Martinez Piña
+###My name is Carlos Martinez Piña
 
-- 🔭 Actualmente estoy estudiando en Instituto Tecnologico de Morelia
-- 🌱 Actualmente estoy aprendiendo Aprendizaje automatico
-- 👯 Busco colaborar en estudiantes para proyectos
-- 🤔 Estoy buscando ayuda con...
-- 📫 Cómo contactarme: Email :carlos37733@gmail.com
-- 😄 Pronombres: Me dicen Piña
-- ⚡ Dato curioso:  Me gusta aprender y trabajar en equipo
+- 🔭 I am currently studying at the Technological Institute of Morelia
+- 🌱 I am currently learning Machine Learning
+- 👯 I am looking to collaborate with students for projects
+- 🤔 I'm looking for help with...
+- 📫 How to contact me: Email: carlos37733@gmail.com
+- 😄 Pronouns: They call me Pineapple
+- ⚡ Fun fact: I like to learn and work as a team
