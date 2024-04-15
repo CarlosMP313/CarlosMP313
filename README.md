@@ -1,6 +1,6 @@
 ### Hi 👋
 
-###My name is Carlos Martinez Piña
+### My name is Carlos Martinez Piña
 
 - 🔭 I am currently studying at the Technological Institute of Morelia
 - 🌱 I am currently learning Machine Learning
